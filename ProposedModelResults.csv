@@ -1,4 +1,4 @@
-Video_Frame_Prediction,DFT_Prediction,Final_Decision
+MultiGrain_Model,DFT_Prediction,Final_Decision
 Real,Fake,Unsure
 Real,Fake,Unsure
 Fake,Fake,Fake
